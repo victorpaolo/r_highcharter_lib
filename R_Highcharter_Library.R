@@ -1,5 +1,5 @@
 ##Highcharter library
-install.packages("highcharter")
+#install.packages("highcharter")
 
 library(highcharter)
 
